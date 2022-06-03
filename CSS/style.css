@@ -396,6 +396,26 @@ body {
   padding: 22px 51px;
 }
 
+.main-section-2 .section-img-2 .section-box .section-inputs .section-input .input-one::-webkit-input-placeholder {
+  color: #9CB7CA;
+}
+
+.main-section-2 .section-img-2 .section-box .section-inputs .section-input .input-one:-ms-input-placeholder {
+  color: #9CB7CA;
+}
+
+.main-section-2 .section-img-2 .section-box .section-inputs .section-input .input-one::-ms-input-placeholder {
+  color: #9CB7CA;
+}
+
+.main-section-2 .section-img-2 .section-box .section-inputs .section-input .input-one::placeholder {
+  color: #9CB7CA;
+}
+
+.main-section-2 .section-img-2 .section-box .section-inputs .section-input .input-one:focus {
+  border: 2px solid #9CB7CA;
+}
+
 .main-section-2 .section-img-2 .section-box .section-inputs .section-input .input-two {
   margin-top: 20px;
 }
