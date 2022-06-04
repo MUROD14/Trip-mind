@@ -392,6 +392,7 @@ body {
 .main-section-2 .section-img-2 .section-box .section-inputs .section-input .input-one {
   color: #9CB7CA;
   border: 2px solid #9CB7CA;
+  outline: none;
   border-radius: 38px;
   padding: 22px 51px;
 }
